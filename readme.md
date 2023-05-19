@@ -68,7 +68,7 @@ The script generates an Excel file named grouped\_costs.xlsx that contains the t
 This script collects costs from the last complete month. For example, if you run the script in May, it will collect costs from April. Please adjust the code if you need a different time period.
 ## **Contact**
 
-For further queries, you can reach out to <your-email@domain.com>
+For further queries, you can reach out to <lugumar@gmail.com>
 
-Please replace "<your-email@domain.com>" with your actual email address.
+
 
